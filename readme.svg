@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="1255" height="380" viewBox="0 0 1255 380">
+<style type="text/css"><![CDATA[
+text { font:12px Dialog; }
+]]></style>
+<rect x="-1098" y="-1152" width="4450" height="2700" style="fill:rgb(255,255,255);stroke:none" />
+<clipPath id="clip1"><path d="M15,15 L1240,15 L1240,365 L15,365 Z M26,148 C21.5820313,148 18,151.5820313 18,156 L18,208 C18,212.4179688 21.5820313,216 26,216 L229,216 C233.4179688,216 237,212.4179688 237,208 L237,156 C237,151.5820313 233.4179688,148 229,148 Z M26,148 Z M26,148" /></clipPath>
+<path d="M247,182 L247,65.984375 C247,61.5703125 250.5859375,57.984375 255,57.984375 L273,57.984375" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip1)" />
+<clipPath id="clip2"><path d="M15,15 L1240,15 L1240,365 L15,365 Z M26,148 C21.5820313,148 18,151.5820313 18,156 L18,208 C18,212.4179688 21.5820313,216 26,216 L229,216 C233.4179688,216 237,212.4179688 237,208 L237,156 C237,151.5820313 233.4179688,148 229,148 Z M26,148 Z M26,148" /></clipPath>
+<path d="M247,182 L247,141.0703125 C247,136.65625 250.5859375,133.0703125 255,133.0703125 L273,133.0703125" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip2)" />
+<clipPath id="clip3"><path d="M15,15 L1240,15 L1240,365 L15,365 Z M26,148 C21.5820313,148 18,151.5820313 18,156 L18,208 C18,212.4179688 21.5820313,216 26,216 L229,216 C233.4179688,216 237,212.4179688 237,208 L237,156 C237,151.5820313 233.4179688,148 229,148 Z M26,148 Z M26,148" /></clipPath>
+<path d="M247,182 L247,298.2304688 C247,302.6484375 250.5859375,306.2304688 255,306.2304688 L273,306.2304688" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip3)" />
+<clipPath id="clip4"><path d="M14,14 L1241,14 L1241,366 L14,366 L14,14 Z" /></clipPath>
+<path d="M237,182 L247,182" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip4)" />
+<clipPath id="clip5"><path d="M14,144 L242,144 L242,221 L14,221 L14,144 Z" /></clipPath>
+<path d="M26,148 C21.5820313,148 18,151.5820313 18,156 L18,208 C18,212.4179688 21.5820313,216 26,216 L229,216 C233.4179688,216 237,212.4179688 237,208 L237,156 C237,151.5820313 233.4179688,148 229,148 Z M26,148" style="fill:rgb(220,230,242);stroke:none" clip-path="url(#clip5)" />
+<clipPath id="clip6"><path d="M14,144 L242,144 L242,221 L14,221 L14,144 Z" /></clipPath>
+<path d="M26,148 C21.5820313,148 18,151.5820313 18,156 L18,208 C18,212.4179688 21.5820313,216 26,216 L229,216 C233.4179688,216 237,212.4179688 237,208 L237,156 C237,151.5820313 233.4179688,148 229,148 Z M26,148" style="fill:none;stroke:rgb(85,142,213);stroke-width:5" clip-path="url(#clip6)" />
+<text x="53" y="184" style="font:18px Dialog">搭建静态博客</text>
+<clipPath id="clip7"><path d="M272,15 L594,15 L594,80 L272,80 Z M278,37 C275.2382813,37 273,39.2382813 273,42 L273,73 C273,75.7617188 275.2382813,78 278,78 L461,78 C463.7617188,78 466,75.7617188 466,73 L466,42 C466,39.2382813 463.7617188,37 461,37 Z M278,37 Z M278,37" /></clipPath>
+<path d="M479,58.0429688 L479,43 L489,43" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip7)" />
+<clipPath id="clip8"><path d="M272,15 L594,15 L594,80 L272,80 Z M278,37 C275.2382813,37 273,39.2382813 273,42 L273,73 C273,75.7617188 275.2382813,78 278,78 L461,78 C463.7617188,78 466,75.7617188 466,73 L466,42 C466,39.2382813 463.7617188,37 461,37 Z M278,37 Z M278,37" /></clipPath>
+<path d="M479,58.0429688 L479,74 L489,74" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip8)" />
+<clipPath id="clip9"><path d="M271,14 L595,14 L595,81 L271,81 L271,14 Z" /></clipPath>
+<path d="M466,57.9804688 L479,58.0429688" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip9)" />
+<clipPath id="clip10"><path d="M271,35 L469,35 L469,81 L271,81 L271,35 Z" /></clipPath>
+<path d="M278,37 C275.2382813,37 273,39.2382813 273,42 L273,73 C273,75.7617188 275.2382813,78 278,78 L461,78 C463.7617188,78 466,75.7617188 466,73 L466,42 C466,39.2382813 463.7617188,37 461,37 Z M278,37" style="fill:rgb(220,230,242);stroke:none" clip-path="url(#clip10)" />
+<clipPath id="clip11"><path d="M271,35 L469,35 L469,81 L271,81 L271,35 Z" /></clipPath>
+<path d="M278,37 C275.2382813,37 273,39.2382813 273,42 L273,73 C273,75.7617188 275.2382813,78 278,78 L461,78 C463.7617188,78 466,75.7617188 466,73 L466,42 C466,39.2382813 463.7617188,37 461,37 Z M278,37" style="fill:none;stroke:rgb(85,142,213);stroke-width:2" clip-path="url(#clip11)" />
+<text x="287" y="60" style="font:13px Dialog">方案1：直接使用工具</text>
+<clipPath id="clip12"><path d="M467,52 L480,52 L480,65 L467,65 L467,52 Z" /></clipPath>
+<path d="M477.5,58 C477.5,55.515625 475.484375,53.5 473,53.5 C470.515625,53.5 468.5,55.515625 468.5,58 C468.5,60.484375 470.515625,62.5 473,62.5 C475.484375,62.5 477.5,60.484375 477.5,58 Z M477.5,58" style="fill:rgb(250,250,250);stroke:none" clip-path="url(#clip12)" />
+<clipPath id="clip13"><path d="M467,52 L480,52 L480,65 L467,65 L467,52 Z" /></clipPath>
+<path d="M477.5,58 C477.5,55.515625 475.484375,53.5 473,53.5 C470.515625,53.5 468.5,55.515625 468.5,58 C468.5,60.484375 470.515625,62.5 473,62.5 C475.484375,62.5 477.5,60.484375 477.5,58 Z M477.5,58" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip13)" />
+<clipPath id="clip14"><path d="M467,52 L480,52 L480,65 L467,65 L467,52 Z" /></clipPath>
+<path d="M471,58 L475,58" style="fill:none;stroke:rgb(150,160,200)" clip-path="url(#clip14)" />
+<clipPath id="clip15"><path d="M486,14 L594,14 L594,46 L486,46 L486,14 Z" /></clipPath>
+<path d="M489,43 L590,43 Z M489,43" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip15)" />
+<text x="500" y="32" style="font:10px Dialog">hexo (node)</text>
+<clipPath id="clip16"><path d="M486,45 L595,45 L595,77 L486,77 L486,45 Z" /></clipPath>
+<path d="M489,74 L591,74 Z M489,74" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip16)" />
+<text x="500" y="63" style="font:10px Dialog">jekyll (ruby)</text>
+<clipPath id="clip17"><path d="M272,90 L652,90 L652,155 L272,155 Z M278,112 C275.2382813,112 273,114.2382813 273,117 L273,148 C273,150.7617188 275.2382813,153 278,153 L495,153 C497.7617188,153 500,150.7617188 500,148 L500,117 C500,114.2382813 497.7617188,112 495,112 Z M278,112 Z M278,112" /></clipPath>
+<path d="M513,133.1289063 L513,118 L523,118" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip17)" />
+<clipPath id="clip18"><path d="M272,90 L652,90 L652,155 L272,155 Z M278,112 C275.2382813,112 273,114.2382813 273,117 L273,148 C273,150.7617188 275.2382813,153 278,153 L495,153 C497.7617188,153 500,150.7617188 500,148 L500,117 C500,114.2382813 497.7617188,112 495,112 Z M278,112 Z M278,112" /></clipPath>
+<path d="M513,133.1289063 L513,149 L523,149" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip18)" />
+<clipPath id="clip19"><path d="M271,89 L653,89 L653,156 L271,156 L271,89 Z" /></clipPath>
+<path d="M500,133.0664063 L513,133.1289063" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip19)" />
+<clipPath id="clip20"><path d="M271,110 L503,110 L503,156 L271,156 L271,110 Z" /></clipPath>
+<path d="M278,112 C275.2382813,112 273,114.2382813 273,117 L273,148 C273,150.7617188 275.2382813,153 278,153 L495,153 C497.7617188,153 500,150.7617188 500,148 L500,117 C500,114.2382813 497.7617188,112 495,112 Z M278,112" style="fill:rgb(220,230,242);stroke:none" clip-path="url(#clip20)" />
+<clipPath id="clip21"><path d="M271,110 L503,110 L503,156 L271,156 L271,110 Z" /></clipPath>
+<path d="M278,112 C275.2382813,112 273,114.2382813 273,117 L273,148 C273,150.7617188 275.2382813,153 278,153 L495,153 C497.7617188,153 500,150.7617188 500,148 L500,117 C500,114.2382813 497.7617188,112 495,112 Z M278,112" style="fill:none;stroke:rgb(85,142,213);stroke-width:2" clip-path="url(#clip21)" />
+<text x="287" y="135" style="font:13px Dialog">方案2：自己动手写代码：</text>
+<clipPath id="clip22"><path d="M501,127 L514,127 L514,140 L501,140 L501,127 Z" /></clipPath>
+<path d="M511.5,133 C511.5,130.515625 509.484375,128.5 507,128.5 C504.515625,128.5 502.5,130.515625 502.5,133 C502.5,135.484375 504.515625,137.5 507,137.5 C509.484375,137.5 511.5,135.484375 511.5,133 Z M511.5,133" style="fill:rgb(250,250,250);stroke:none" clip-path="url(#clip22)" />
+<clipPath id="clip23"><path d="M501,127 L514,127 L514,140 L501,140 L501,127 Z" /></clipPath>
+<path d="M511.5,133 C511.5,130.515625 509.484375,128.5 507,128.5 C504.515625,128.5 502.5,130.515625 502.5,133 C502.5,135.484375 504.515625,137.5 507,137.5 C509.484375,137.5 511.5,135.484375 511.5,133 Z M511.5,133" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip23)" />
+<clipPath id="clip24"><path d="M501,127 L514,127 L514,140 L501,140 L501,127 Z" /></clipPath>
+<path d="M505,133 L509,133" style="fill:none;stroke:rgb(150,160,200)" clip-path="url(#clip24)" />
+<clipPath id="clip25"><path d="M520,89 L653,89 L653,121 L520,121 L520,89 Z" /></clipPath>
+<path d="M523,118 L649,118 Z M523,118" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip25)" />
+<text x="534" y="107" style="font:10px Dialog">Flask-FlatPages</text>
+<clipPath id="clip26"><path d="M520,120 L633,120 L633,152 L520,152 L520,120 Z" /></clipPath>
+<path d="M523,149 L629,149 Z M523,149" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip26)" />
+<text x="534" y="138" style="font:10px Dialog">Frozen-Flask</text>
+<clipPath id="clip27"><path d="M272,165 L1240,165 L1240,365 L272,365 Z M278,285 C275.2382813,285 273,287.2382813 273,290 L273,321 C273,323.7617188 275.2382813,326 278,326 L559,326 C561.7617188,326 564,323.7617188 564,321 L564,290 C564,287.2382813 561.7617188,285 559,285 Z M278,285 Z M278,285" /></clipPath>
+<path d="M577,306.2890625 L577,255 L587,255" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip27)" />
+<clipPath id="clip28"><path d="M272,165 L1240,165 L1240,365 L272,365 Z M278,285 C275.2382813,285 273,287.2382813 273,290 L273,321 C273,323.7617188 275.2382813,326 278,326 L559,326 C561.7617188,326 564,323.7617188 564,321 L564,290 C564,287.2382813 561.7617188,285 559,285 Z M278,285 Z M278,285" /></clipPath>
+<path d="M577,306.2890625 L577,358 L587,358" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip28)" />
+<clipPath id="clip29"><path d="M271,164 L1241,164 L1241,366 L271,366 L271,164 Z" /></clipPath>
+<path d="M564,306.2226563 L577,306.2890625" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip29)" />
+<clipPath id="clip30"><path d="M271,283 L567,283 L567,329 L271,329 L271,283 Z" /></clipPath>
+<path d="M278,285 C275.2382813,285 273,287.2382813 273,290 L273,321 C273,323.7617188 275.2382813,326 278,326 L559,326 C561.7617188,326 564,323.7617188 564,321 L564,290 C564,287.2382813 561.7617188,285 559,285 Z M278,285" style="fill:rgb(220,230,242);stroke:none" clip-path="url(#clip30)" />
+<clipPath id="clip31"><path d="M271,283 L567,283 L567,329 L271,329 L271,283 Z" /></clipPath>
+<path d="M278,285 C275.2382813,285 273,287.2382813 273,290 L273,321 C273,323.7617188 275.2382813,326 278,326 L559,326 C561.7617188,326 564,323.7617188 564,321 L564,290 C564,287.2382813 561.7617188,285 559,285 Z M278,285" style="fill:none;stroke:rgb(85,142,213);stroke-width:2" clip-path="url(#clip31)" />
+<text x="287" y="307" style="font:13px Dialog">方案3：doc文档系统+静态服务器</text>
+<clipPath id="clip32"><path d="M565,300 L578,300 L578,313 L565,313 L565,300 Z" /></clipPath>
+<path d="M575.5,306 C575.5,303.515625 573.484375,301.5 571,301.5 C568.515625,301.5 566.5,303.515625 566.5,306 C566.5,308.484375 568.515625,310.5 571,310.5 C573.484375,310.5 575.5,308.484375 575.5,306 Z M575.5,306" style="fill:rgb(250,250,250);stroke:none" clip-path="url(#clip32)" />
+<clipPath id="clip33"><path d="M565,300 L578,300 L578,313 L565,313 L565,300 Z" /></clipPath>
+<path d="M575.5,306 C575.5,303.515625 573.484375,301.5 571,301.5 C568.515625,301.5 566.5,303.515625 566.5,306 C566.5,308.484375 568.515625,310.5 571,310.5 C573.484375,310.5 575.5,308.484375 575.5,306 Z M575.5,306" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip33)" />
+<clipPath id="clip34"><path d="M565,300 L578,300 L578,313 L565,313 L565,300 Z" /></clipPath>
+<path d="M569,306 L573,306" style="fill:none;stroke:rgb(150,160,200)" clip-path="url(#clip34)" />
+<clipPath id="clip35"><path d="M585,165 L1053,165 L1053,324 L585,324 Z M587,229 L587,254 L654,254 L654,229 Z M587,229 Z M587,229" /></clipPath>
+<path d="M667,255 C669.4453125,213.6679688 673.109375,193 678,193" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip35)" />
+<clipPath id="clip36"><path d="M585,165 L1053,165 L1053,324 L585,324 Z M587,229 L587,254 L654,254 L654,229 Z M587,229 Z M587,229" /></clipPath>
+<path d="M667,255 C669.4453125,234.3320313 673.109375,224 678,224" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip36)" />
+<clipPath id="clip37"><path d="M585,165 L1053,165 L1053,324 L585,324 Z M587,229 L587,254 L654,254 L654,229 Z M587,229 Z M587,229" /></clipPath>
+<path d="M667,255 C669.4453125,255 673.109375,255 678,255" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip37)" />
+<clipPath id="clip38"><path d="M585,165 L1053,165 L1053,324 L585,324 Z M587,229 L587,254 L654,254 L654,229 Z M587,229 Z M587,229" /></clipPath>
+<path d="M667,255 C669.4453125,275.6679688 673.109375,286 678,286" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip38)" />
+<clipPath id="clip39"><path d="M585,165 L1053,165 L1053,324 L585,324 Z M587,229 L587,254 L654,254 L654,229 Z M587,229 Z M587,229" /></clipPath>
+<path d="M667,255 C669.4453125,296.3320313 673.109375,317 678,317" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip39)" />
+<clipPath id="clip40"><path d="M584,164 L1054,164 L1054,325 L584,325 L584,164 Z" /></clipPath>
+<path d="M654,255 L667,255" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip40)" />
+<clipPath id="clip41"><path d="M584,226 L658,226 L658,258 L584,258 L584,226 Z" /></clipPath>
+<path d="M587,255 L654,255 Z M587,255" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip41)" />
+<text x="598" y="243" style="font:10px Dialog">Sphinx</text>
+<clipPath id="clip42"><path d="M656,236 L669,236 L669,249 L656,249 L656,236 Z" /></clipPath>
+<path d="M666.5,242 C666.5,239.515625 664.484375,237.5 662,237.5 C659.515625,237.5 657.5,239.515625 657.5,242 C657.5,244.484375 659.515625,246.5 662,246.5 C664.484375,246.5 666.5,244.484375 666.5,242 Z M666.5,242" style="fill:rgb(250,250,250);stroke:none" clip-path="url(#clip42)" />
+<clipPath id="clip43"><path d="M656,236 L669,236 L669,249 L656,249 L656,236 Z" /></clipPath>
+<path d="M666.5,242 C666.5,239.515625 664.484375,237.5 662,237.5 C659.515625,237.5 657.5,239.515625 657.5,242 C657.5,244.484375 659.515625,246.5 662,246.5 C664.484375,246.5 666.5,244.484375 666.5,242 Z M666.5,242" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip43)" />
+<clipPath id="clip44"><path d="M656,236 L669,236 L669,249 L656,249 L656,236 Z" /></clipPath>
+<path d="M660,242 L664,242" style="fill:none;stroke:rgb(150,160,200)" clip-path="url(#clip44)" />
+<clipPath id="clip45"><path d="M675,164 L847,164 L847,196 L675,196 L675,164 Z" /></clipPath>
+<path d="M678,193 L843,193 Z M678,193" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip45)" />
+<text x="689" y="182" style="font:10px Dialog">md生成html的文档系统</text>
+<clipPath id="clip46"><path d="M675,195 L817,195 L817,227 L675,227 L675,195 Z" /></clipPath>
+<path d="M678,224 L813,224 Z M678,224" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip46)" />
+<text x="689" y="212" style="font:10px Dialog">pip install Sphinx</text>
+<clipPath id="clip47"><path d="M675,226 L877,226 L877,258 L675,258 L675,226 Z" /></clipPath>
+<path d="M678,255 L873,255 Z M678,255" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip47)" />
+<text x="689" y="243" style="font:10px Dialog">pip install recommonmark</text>
+<clipPath id="clip48"><path d="M675,257 L818,257 L818,289 L675,289 L675,257 Z" /></clipPath>
+<path d="M678,286 L814,286 Z M678,286" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip48)" />
+<text x="689" y="274" style="font:10px Dialog">sphinx-quickstart</text>
+<clipPath id="clip49"><path d="M675,288 L919,288 L919,320 L675,320 L675,288 Z" /></clipPath>
+<path d="M678,317 L915,317 Z M678,317" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip49)" />
+<text x="689" y="305" style="font:10px Dialog">sphinx-build -b html source build</text>
+<clipPath id="clip50"><path d="M816,252 L853,252 L853,294 L816,294 L816,252 Z" /></clipPath>
+<path d="M822,258 L834.5,258 L834.5,288 L822,288 M834.5,272.8046875 L847,272.8046875" style="fill:none;stroke:rgb(195,214,155);stroke-width:5" clip-path="url(#clip50)" />
+<clipPath id="clip51"><path d="M875,190 L912,190 L912,263 L875,263 L875,190 Z" /></clipPath>
+<path d="M881,196 L893.5,196 L893.5,257 L881,257 M893.5,225.7734375 L906,225.7734375" style="fill:none;stroke:rgb(195,214,155);stroke-width:5" clip-path="url(#clip51)" />
+<clipPath id="clip52"><path d="M917,283 L954,283 L954,325 L917,325 L917,283 Z" /></clipPath>
+<path d="M923,289 L935.5,289 L935.5,319 L923,319 M935.5,303.7734375 L948,303.7734375" style="fill:none;stroke:rgb(195,214,155);stroke-width:5" clip-path="url(#clip52)" />
+<clipPath id="clip53"><path d="M851,257 L966,257 L966,289 L851,289 L851,257 Z" /></clipPath>
+<path d="M857,258 C854.2382813,258 852,260.2382813 852,263 L852,282 C852,284.7617188 854.2382813,287 857,287 L959,287 C961.7617188,287 964,284.7617188 964,282 L964,263 C964,260.2382813 961.7617188,258 959,258 Z M857,258" style="fill:rgb(119,147,60);stroke:none" clip-path="url(#clip53)" />
+<text x="862" y="274" style="font:10px Dialog">生成文件和目录</text>
+<clipPath id="clip54"><path d="M910,210 L1012,210 L1012,242 L910,242 L910,210 Z" /></clipPath>
+<path d="M916,211 C913.2382813,211 911,213.2382813 911,216 L911,235 C911,237.7617188 913.2382813,240 916,240 L1005,240 C1007.7617188,240 1010,237.7617188 1010,235 L1010,216 C1010,213.2382813 1007.7617188,211 1005,211 Z M916,211" style="fill:rgb(119,147,60);stroke:none" clip-path="url(#clip54)" />
+<text x="921" y="227" style="font:10px Dialog">安装必要的库</text>
+<clipPath id="clip55"><path d="M952,288 L1054,288 L1054,320 L952,320 L952,288 Z" /></clipPath>
+<path d="M958,289 C955.2382813,289 953,291.2382813 953,294 L953,313 C953,315.7617188 955.2382813,318 958,318 L1047,318 C1049.7617188,318 1052,315.7617188 1052,313 L1052,294 C1052,291.2382813 1049.7617188,289 1047,289 Z M958,289" style="fill:rgb(119,147,60);stroke:none" clip-path="url(#clip55)" />
+<text x="963" y="305" style="font:10px Dialog">生成静态页面</text>
+<clipPath id="clip56"><path d="M585,325 L1240,325 L1240,365 L585,365 Z M587,332 L587,357 L685,357 L685,332 Z M587,332 Z M587,332" /></clipPath>
+<path d="M698,358 C700.4453125,358 704.109375,358 709,358" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip56)" />
+<clipPath id="clip57"><path d="M584,324 L1241,324 L1241,366 L584,366 L584,324 Z" /></clipPath>
+<path d="M685,358 L698,358" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip57)" />
+<clipPath id="clip58"><path d="M584,329 L689,329 L689,361 L584,361 L584,329 Z" /></clipPath>
+<path d="M587,358 L685,358 Z M587,358" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip58)" />
+<text x="598" y="346" style="font:10px Dialog">http.server </text>
+<clipPath id="clip59"><path d="M687,339 L700,339 L700,352 L687,352 L687,339 Z" /></clipPath>
+<path d="M697.5,345 C697.5,342.515625 695.484375,340.5 693,340.5 C690.515625,340.5 688.5,342.515625 688.5,345 C688.5,347.484375 690.515625,349.5 693,349.5 C695.484375,349.5 697.5,347.484375 697.5,345 Z M697.5,345" style="fill:rgb(250,250,250);stroke:none" clip-path="url(#clip59)" />
+<clipPath id="clip60"><path d="M687,339 L700,339 L700,352 L687,352 L687,339 Z" /></clipPath>
+<path d="M697.5,345 C697.5,342.515625 695.484375,340.5 693,340.5 C690.515625,340.5 688.5,342.515625 688.5,345 C688.5,347.484375 690.515625,349.5 693,349.5 C695.484375,349.5 697.5,347.484375 697.5,345 Z M697.5,345" style="fill:none;stroke:rgb(85,142,213)" clip-path="url(#clip60)" />
+<clipPath id="clip61"><path d="M687,339 L700,339 L700,352 L687,352 L687,339 Z" /></clipPath>
+<path d="M691,345 L695,345" style="fill:none;stroke:rgb(150,160,200)" clip-path="url(#clip61)" />
+<clipPath id="clip62"><path d="M706,329 L993,329 L993,361 L706,361 L706,329 Z" /></clipPath>
+<path d="M709,358 L989,358 Z M709,358" style="fill:none;stroke:rgb(85,142,213);stroke-width:3" clip-path="url(#clip62)" />
+<text x="720" y="346" style="font:10px Dialog">cd build &amp;&amp; python -m http.server 3000</text>
+<clipPath id="clip63"><path d="M991,324 L1028,324 L1028,366 L991,366 L991,324 Z" /></clipPath>
+<path d="M997,330 L1009.5,330 L1009.5,360 L997,360 M1009.5,345.0546875 L1022,345.0546875" style="fill:none;stroke:rgb(195,214,155);stroke-width:5" clip-path="url(#clip63)" />
+<clipPath id="clip64"><path d="M1026,329 L1241,329 L1241,361 L1026,361 L1026,329 Z" /></clipPath>
+<path d="M1032,330 C1029.2382813,330 1027,332.2382813 1027,335 L1027,354 C1027,356.7617188 1029.2382813,359 1032,359 L1234,359 C1236.7617188,359 1239,356.7617188 1239,354 L1239,335 C1239,332.2382813 1236.7617188,330 1234,330 Z M1032,330" style="fill:rgb(119,147,60);stroke:none" clip-path="url(#clip64)" />
+<text x="1037" y="346" style="font:10px Dialog">进入build目录并启动静态服务器</text>
+</svg>

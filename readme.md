@@ -1,6 +1,6 @@
 ```
 pip install Sphinx
-sphinx-quickstart
 pip install recommonmark
+sphinx-quickstart
 sphinx-build -b html source build
 ```
