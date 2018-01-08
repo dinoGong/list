@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["doc1","doc2","index"],envversion:53,filenames:["doc1.md","doc2.md","index.md"],objects:{},objnames:{},objtypes:{},terms:{title1:[0,1,2],title2:[0,1,2]},titles:["welcome to list!","welcome to doc2!","list!"],titleterms:{doc2:1,hahaha:[0,1,2],list:[0,2],welcom:[0,1]}})
